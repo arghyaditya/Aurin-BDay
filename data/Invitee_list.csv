@@ -1,0 +1,247 @@
+Name,Type,Invitees,Age_Group,Time_of_Day,Menu,Number
+Arghya,Friends,Dhruv,Adult,Lunch,Non Veg,2
+Arghya,Friends,Deepak - IBS,Adult,Lunch,Non Veg,2
+Arghya,Friends,Ippili,Adult,Lunch,Non Veg,2
+Arghya,Friends,Kummu,Adult,Lunch,Non Veg,2
+Arghya,Office,Lakshmi,Adult,Lunch,Veg,1
+Arghya,Office,Chhavi,Adult,Lunch,Veg,2
+Arghya,Office,Ballu,Adult,Lunch,Non Veg,2
+Arghya,Office,Chinki,Adult,Lunch,Veg,1
+Arghya,Office,Pinky,Adult,Lunch,Veg,1
+Arghya,Office,Rahul,Adult,Lunch,Non Veg,2
+Arghya,Office,Satya,Adult,Lunch,Non Veg,2
+Arghya,Office,Sourav,Adult,Lunch,Non Veg,2
+Arghya,Friends,Dhruv,Kid (<6),Lunch,Non Veg,0
+Arghya,Friends,Deepak - IBS,Kid (<6),Lunch,Non Veg,0
+Arghya,Friends,Ippili,Kid (<6),Lunch,Non Veg,0
+Arghya,Friends,Kummu,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Lakshmi,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Chhavi,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Ballu,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Chinki,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Pinky,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Rahul,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Satya,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Aman,Kid (<6),Lunch,Non Veg,0
+Arghya,Office,Sourav,Kid (<6),Lunch,Non Veg,0
+Arghya,Friends,Dhruv,Kid (>=6),Lunch,Non Veg,1
+Arghya,Friends,Deepak - IBS,Kid (>=6),Lunch,Non Veg,2
+Arghya,Friends,Ippili,Kid (>=6),Lunch,Non Veg,2
+Arghya,Friends,Kummu,Kid (>=6),Lunch,Non Veg,1
+Arghya,Office,Lakshmi,Kid (>=6),Lunch,Non Veg,0
+Arghya,Office,Chhavi,Kid (>=6),Lunch,Non Veg,0
+Arghya,Office,Ballu,Kid (>=6),Lunch,Non Veg,0
+Arghya,Office,Chinki,Kid (>=6),Lunch,Non Veg,0
+Arghya,Office,Pinky,Kid (>=6),Lunch,Non Veg,0
+Arghya,Office,Rahul,Kid (>=6),Lunch,Non Veg,1
+Arghya,Office,Satya,Kid (>=6),Lunch,Non Veg,1
+Arghya,Office,Aman,Kid (>=6),Lunch,Non Veg,0
+Arghya,Office,Sourav,Kid (>=6),Lunch,Non Veg,0
+Arghya,Friends,Dhruv,Adult,Dinner,Non Veg,2
+Arghya,Friends,Deepak - IBS,Adult,Dinner,Non Veg,2
+Arghya,Friends,Ippili,Adult,Dinner,Non Veg,2
+Arghya,Friends,Kummu,Adult,Dinner,Non Veg,2
+Arghya,Office,Lakshmi,Adult,Dinner,Veg,1
+Arghya,Office,Chhavi,Adult,Dinner,Veg,2
+Arghya,Office,Ballu,Adult,Dinner,Non Veg,2
+Arghya,Office,Chinki,Adult,Dinner,Veg,1
+Arghya,Office,Pinky,Adult,Dinner,Veg,1
+Arghya,Office,Rahul,Adult,Dinner,Non Veg,2
+Arghya,Office,Satya,Adult,Dinner,Non Veg,2
+Arghya,Office,Sourav,Adult,Dinner,Non Veg,2
+Arghya,Friends,Dhruv,Kid (<6),Dinner,Non Veg,0
+Arghya,Friends,Deepak - IBS,Kid (<6),Dinner,Non Veg,0
+Arghya,Friends,Ippili,Kid (<6),Dinner,Non Veg,0
+Arghya,Friends,Kummu,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Lakshmi,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Chhavi,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Ballu,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Chinki,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Pinky,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Rahul,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Satya,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Aman,Kid (<6),Dinner,Non Veg,0
+Arghya,Office,Sourav,Kid (<6),Dinner,Non Veg,0
+Arghya,Friends,Dhruv,Kid (>=6),Dinner,Non Veg,1
+Arghya,Friends,Deepak - IBS,Kid (>=6),Dinner,Non Veg,2
+Arghya,Friends,Ippili,Kid (>=6),Dinner,Non Veg,2
+Arghya,Friends,Kummu,Kid (>=6),Dinner,Non Veg,1
+Arghya,Office,Lakshmi,Kid (>=6),Dinner,Non Veg,0
+Arghya,Office,Chhavi,Kid (>=6),Dinner,Non Veg,0
+Arghya,Office,Ballu,Kid (>=6),Dinner,Non Veg,0
+Arghya,Office,Chinki,Kid (>=6),Dinner,Non Veg,0
+Arghya,Office,Pinky,Kid (>=6),Dinner,Non Veg,0
+Arghya,Office,Rahul,Kid (>=6),Dinner,Non Veg,1
+Arghya,Office,Satya,Kid (>=6),Dinner,Non Veg,1
+Arghya,Office,Aman,Kid (>=6),Dinner,Non Veg,0
+Arghya,Office,Sourav,Kid (>=6),Dinner,Non Veg,0
+Arghya,Club,Binoy,Adult,Lunch,Non Veg,0
+Arghya,Club,Sagata,Adult,Lunch,Non Veg,1
+Arghya,Club,Atanu,Adult,Lunch,Non Veg,2
+Arghya,Club,Debu,Adult,Lunch,Non Veg,2
+Arghya,Club,Dexter,Adult,Lunch,Non Veg,1
+Arghya,Club,Arkarup,Adult,Lunch,Non Veg,2
+Arghya,Club,Debraj BinB,Adult,Lunch,Non Veg,3
+Arghya,Club,Abhijit,Adult,Lunch,Non Veg,1
+Arghya,Club,Arghya Sanyal,Adult,Lunch,Non Veg,3
+Arghya,Family,Arghya,Adult,Lunch,Non Veg,1
+Arghya,Club,Binoy,Kid (<6),Lunch,Non Veg,0
+Arghya,Club,Sagata,Kid (<6),Lunch,Non Veg,0
+Arghya,Club,Atanu,Kid (<6),Lunch,Non Veg,1
+Arghya,Club,Debu,Kid (<6),Lunch,Non Veg,1
+Arghya,Club,Dexter,Kid (<6),Lunch,Non Veg,0
+Arghya,Club,Arkarup,Kid (<6),Lunch,Non Veg,0
+Arghya,Club,Debraj BinB,Kid (<6),Lunch,Non Veg,0
+Arghya,Club,Abhijit,Kid (<6),Lunch,Non Veg,0
+Arghya,Club,Arghya Sanyal,Kid (<6),Lunch,Non Veg,0
+Arghya,Family,Arghya,Kid (<6),Lunch,Non Veg,0
+Arghya,Club,Binoy,Adult,Dinner,Non Veg,0
+Arghya,Club,Sagata,Adult,Dinner,Non Veg,1
+Arghya,Club,Atanu,Adult,Dinner,Non Veg,2
+Arghya,Club,Debu,Adult,Dinner,Non Veg,2
+Arghya,Club,Dexter,Adult,Dinner,Non Veg,1
+Arghya,Club,Arkarup,Adult,Dinner,Non Veg,2
+Arghya,Club,Debraj BinB,Adult,Dinner,Non Veg,3
+Arghya,Club,Abhijit,Adult,Dinner,Non Veg,1
+Arghya,Club,Arghya Sanyal,Adult,Dinner,Non Veg,3
+Arghya,Family,Arghya,Adult,Dinner,Non Veg,1
+Arghya,Club,Binoy,Kid (<6),Dinner,Non Veg,0
+Arghya,Club,Sagata,Kid (<6),Dinner,Non Veg,0
+Arghya,Club,Atanu,Kid (<6),Dinner,Non Veg,1
+Arghya,Club,Debu,Kid (<6),Dinner,Non Veg,1
+Arghya,Club,Dexter,Kid (<6),Dinner,Non Veg,0
+Arghya,Club,Arkarup,Kid (<6),Dinner,Non Veg,0
+Arghya,Club,Debraj BinB,Kid (<6),Dinner,Non Veg,0
+Arghya,Club,Abhijit,Kid (<6),Dinner,Non Veg,0
+Arghya,Club,Arghya Sanyal,Kid (<6),Dinner,Non Veg,0
+Arghya,Family,Arghya,Kid (<6),Dinner,Non Veg,0
+Nabanita,Friends,Sudeshna,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Sonia,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Jui,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Anuradha Srivastav,Adult,Dinner,Non Veg,3
+Nabanita,Friends,Ruchipriya,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Anasmita,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Shravani,Adult,Dinner,Non Veg,1
+Nabanita,Friends,Debjani,Adult,Dinner,Non Veg,3
+Nabanita,Friends,Aparna Di,Adult,Dinner,Non Veg,1
+Nabanita,Friends,Soumya Sarkar,Adult,Dinner,Non Veg,1
+Nabanita,Friends,Arpita,Adult,Dinner,Non Veg,3
+Nabanita,Friends,Anu - Greenage,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Pum - Greenage,Adult,Dinner,Non Veg,3
+Nabanita,Friends,Ellora,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Amrapali,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Devraj Guha,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Piyush,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Mukta,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Debanjana,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Navendu,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Tanima,Adult,Dinner,Non Veg,3
+Nabanita,Friends,Piku,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Sudeshna,Kid (>=6),Dinner,Non Veg,2
+Nabanita,Friends,Sonia,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Jui,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Anuradha Srivastav,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Ruchipriya,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Anasmita,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Shravani,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Debjani,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Aparna Di,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Soumya Sarkar,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Arpita,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Anu - Greenage,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Pum - Greenage,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Ellora,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Amrapali,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Devraj Guha,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Friends,Piyush,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Mukta,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Debanjana,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Navendu,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Tanima,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Friends,Piku,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Office,Ashish,Adult,Dinner,Non Veg,2
+Nabanita,Office,Leela,Adult,Dinner,Non Veg,2
+Nabanita,Office,Subhayu,Adult,Dinner,Non Veg,1
+Nabanita,Office,Josho,Adult,Dinner,Non Veg,2
+Nabanita,Office,Raj,Adult,Dinner,Non Veg,2
+Nabanita,Office,Roshni,Adult,Dinner,Non Veg,1
+Nabanita,Office,Hanishma,Adult,Dinner,Non Veg,2
+Nabanita,Office,Moin,Adult,Dinner,Non Veg,0
+Nabanita,Office,Ashish,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Office,Leela,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Office,Subhayu,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Office,Josho,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Office,Raj,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Office,Roshni,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Office,Hanishma,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Office,Moin,Kid (>=6),Dinner,Non Veg,0
+Nabanita,Family,Mamamoni,Adult,Dinner,Non Veg,5
+Nabanita,Family,Tumpa,Adult,Dinner,Non Veg,3
+Nabanita,Family,Baba,Adult,Dinner,Non Veg,1
+Nabanita,Family,Shayak,Adult,Dinner,Non Veg,1
+Nabanita,Family,Nabanita,Adult,Dinner,Non Veg,1
+Nabanita,Friends,Sudeshna,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Sonia,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Jui,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Anuradha Srivastav,Adult,Lunch,Non Veg,3
+Nabanita,Friends,Ruchipriya,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Anasmita,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Shravani,Adult,Lunch,Non Veg,1
+Nabanita,Friends,Debjani,Adult,Lunch,Non Veg,3
+Nabanita,Friends,Aparna Di,Adult,Lunch,Non Veg,1
+Nabanita,Friends,Soumya Sarkar,Adult,Lunch,Non Veg,1
+Nabanita,Friends,Arpita,Adult,Lunch,Non Veg,3
+Nabanita,Friends,Anu - Greenage,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Pum - Greenage,Adult,Lunch,Non Veg,3
+Nabanita,Friends,Ellora,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Amrapali,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Devraj Guha,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Piyush,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Mukta,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Debanjana,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Navendu,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Tanima,Adult,Lunch,Non Veg,3
+Nabanita,Friends,Piku,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Sudeshna,Kid (>=6),Lunch,Non Veg,2
+Nabanita,Friends,Sonia,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Jui,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Anuradha Srivastav,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Ruchipriya,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Anasmita,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Shravani,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Debjani,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Aparna Di,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Soumya Sarkar,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Arpita,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Anu - Greenage,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Pum - Greenage,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Ellora,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Amrapali,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Devraj Guha,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Friends,Piyush,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Mukta,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Debanjana,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Navendu,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Tanima,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Friends,Piku,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Office,Ashish,Adult,Lunch,Non Veg,2
+Nabanita,Office,Leela,Adult,Lunch,Non Veg,2
+Nabanita,Office,Subhayu,Adult,Lunch,Non Veg,1
+Nabanita,Office,Josho,Adult,Lunch,Non Veg,2
+Nabanita,Office,Raj,Adult,Lunch,Non Veg,2
+Nabanita,Office,Roshni,Adult,Lunch,Non Veg,1
+Nabanita,Office,Hanishma,Adult,Lunch,Non Veg,2
+Nabanita,Office,Moin,Adult,Lunch,Non Veg,0
+Nabanita,Office,Ashish,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Office,Leela,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Office,Subhayu,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Office,Josho,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Office,Raj,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Office,Roshni,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Office,Hanishma,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Office,Moin,Kid (>=6),Lunch,Non Veg,0
+Nabanita,Family,Mamamoni,Adult,Lunch,Non Veg,5
+Nabanita,Family,Tumpa,Adult,Lunch,Non Veg,3
+Nabanita,Family,Baba,Adult,Lunch,Non Veg,1
+Nabanita,Family,Shayak,Adult,Lunch,Non Veg,1
+Nabanita,Family,Nabanita,Adult,Lunch,Non Veg,1

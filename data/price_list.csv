@@ -1,0 +1,25 @@
+Venue,Age_Group,Time_of_Day,Menu,INR
+BBQ,Adult,Lunch,Veg,750
+BBQ,Kid (<6),Lunch,Veg,0
+BBQ,Kid (>=6),Lunch,Veg,400
+BBQ,Adult,Lunch,Non Veg,870
+BBQ,Kid (<6),Lunch,Non Veg,0
+BBQ,Kid (>=6),Lunch,Non Veg,400
+BBQ,Adult,Dinner,Veg,850
+BBQ,Kid (<6),Dinner,Veg,0
+BBQ,Kid (>=6),Dinner,Veg,400
+BBQ,Adult,Dinner,Non Veg,960
+BBQ,Kid (<6),Dinner,Non Veg,0
+BBQ,Kid (>=6),Dinner,Non Veg,400
+CC,Adult,Lunch,Veg,900
+CC,Kid (>=6),Lunch,Veg,450
+CC,Kid (<6),Lunch,Veg,0
+CC,Adult,Dinner,Veg,900
+CC,Kid (>=6),Dinner,Veg,450
+CC,Kid (<6),Dinner,Veg,0
+CC,Adult,Lunch,Non Veg,900
+CC,Kid (>=6),Lunch,Non Veg,450
+CC,Kid (<6),Lunch,Non Veg,0
+CC,Adult,Dinner,Non Veg,900
+CC,Kid (>=6),Dinner,Non Veg,450
+CC,Kid (<6),Dinner,Non Veg,0
