@@ -132,7 +132,7 @@ Nabanita,Friends,Ellora,Adult,Dinner,Non Veg,2
 Nabanita,Friends,Amrapali,Adult,Dinner,Non Veg,2
 Nabanita,Friends,Devraj Guha,Adult,Dinner,Non Veg,2
 Nabanita,Friends,Piyush,Adult,Dinner,Non Veg,2
-Nabanita,Friends,Mukta,Adult,Dinner,Non Veg,2
+Nabanita,Friends,Mukta,Adult,Dinner,Non Veg,1
 Nabanita,Friends,Debanjana,Adult,Dinner,Non Veg,2
 Nabanita,Friends,Navendu,Adult,Dinner,Non Veg,2
 Nabanita,Friends,Tanima,Adult,Dinner,Non Veg,3
@@ -163,7 +163,7 @@ Nabanita,Office,Ashish,Adult,Dinner,Non Veg,2
 Nabanita,Office,Leela,Adult,Dinner,Non Veg,2
 Nabanita,Office,Subhayu,Adult,Dinner,Non Veg,1
 Nabanita,Office,Josho,Adult,Dinner,Non Veg,2
-Nabanita,Office,Raj,Adult,Dinner,Non Veg,2
+Nabanita,Office,Raj,Adult,Dinner,Non Veg,0
 Nabanita,Office,Roshni,Adult,Dinner,Non Veg,1
 Nabanita,Office,Hanishma,Adult,Dinner,Non Veg,2
 Nabanita,Office,Moin,Adult,Dinner,Non Veg,0
@@ -171,11 +171,11 @@ Nabanita,Office,Ashish,Kid (>=6),Dinner,Non Veg,1
 Nabanita,Office,Leela,Kid (>=6),Dinner,Non Veg,1
 Nabanita,Office,Subhayu,Kid (>=6),Dinner,Non Veg,0
 Nabanita,Office,Josho,Kid (>=6),Dinner,Non Veg,0
-Nabanita,Office,Raj,Kid (>=6),Dinner,Non Veg,1
+Nabanita,Office,Raj,Kid (>=6),Dinner,Non Veg,0
 Nabanita,Office,Roshni,Kid (>=6),Dinner,Non Veg,0
 Nabanita,Office,Hanishma,Kid (>=6),Dinner,Non Veg,1
 Nabanita,Office,Moin,Kid (>=6),Dinner,Non Veg,0
-Nabanita,Family,Mamamoni,Adult,Dinner,Non Veg,5
+Nabanita,Family,Mamamoni,Adult,Dinner,Non Veg,4
 Nabanita,Family,Tumpa,Adult,Dinner,Non Veg,3
 Nabanita,Family,Baba,Adult,Dinner,Non Veg,1
 Nabanita,Family,Shayak,Adult,Dinner,Non Veg,1
@@ -197,7 +197,7 @@ Nabanita,Friends,Ellora,Adult,Lunch,Non Veg,2
 Nabanita,Friends,Amrapali,Adult,Lunch,Non Veg,2
 Nabanita,Friends,Devraj Guha,Adult,Lunch,Non Veg,2
 Nabanita,Friends,Piyush,Adult,Lunch,Non Veg,2
-Nabanita,Friends,Mukta,Adult,Lunch,Non Veg,2
+Nabanita,Friends,Mukta,Adult,Lunch,Non Veg,1
 Nabanita,Friends,Debanjana,Adult,Lunch,Non Veg,2
 Nabanita,Friends,Navendu,Adult,Lunch,Non Veg,2
 Nabanita,Friends,Tanima,Adult,Lunch,Non Veg,3
@@ -228,7 +228,7 @@ Nabanita,Office,Ashish,Adult,Lunch,Non Veg,2
 Nabanita,Office,Leela,Adult,Lunch,Non Veg,2
 Nabanita,Office,Subhayu,Adult,Lunch,Non Veg,1
 Nabanita,Office,Josho,Adult,Lunch,Non Veg,2
-Nabanita,Office,Raj,Adult,Lunch,Non Veg,2
+Nabanita,Office,Raj,Adult,Lunch,Non Veg,0
 Nabanita,Office,Roshni,Adult,Lunch,Non Veg,1
 Nabanita,Office,Hanishma,Adult,Lunch,Non Veg,2
 Nabanita,Office,Moin,Adult,Lunch,Non Veg,0
@@ -236,12 +236,16 @@ Nabanita,Office,Ashish,Kid (>=6),Lunch,Non Veg,1
 Nabanita,Office,Leela,Kid (>=6),Lunch,Non Veg,1
 Nabanita,Office,Subhayu,Kid (>=6),Lunch,Non Veg,0
 Nabanita,Office,Josho,Kid (>=6),Lunch,Non Veg,0
-Nabanita,Office,Raj,Kid (>=6),Lunch,Non Veg,1
+Nabanita,Office,Raj,Kid (>=6),Lunch,Non Veg,0
 Nabanita,Office,Roshni,Kid (>=6),Lunch,Non Veg,0
 Nabanita,Office,Hanishma,Kid (>=6),Lunch,Non Veg,1
 Nabanita,Office,Moin,Kid (>=6),Lunch,Non Veg,0
-Nabanita,Family,Mamamoni,Adult,Lunch,Non Veg,5
+Nabanita,Family,Mamamoni,Adult,Lunch,Non Veg,4
 Nabanita,Family,Tumpa,Adult,Lunch,Non Veg,3
 Nabanita,Family,Baba,Adult,Lunch,Non Veg,1
 Nabanita,Family,Shayak,Adult,Lunch,Non Veg,1
 Nabanita,Family,Nabanita,Adult,Lunch,Non Veg,1
+Nabanita,Family,Mamamoni,Adult,Dinner,Veg,1
+Nabanita,Family,Mamamoni,Adult,Lunch,Veg,1
+Nabanita,Friends,Mukta,Adult,Dinner,Veg,1
+Nabanita,Friends,Mukta,Adult,Lunch,Veg,1
